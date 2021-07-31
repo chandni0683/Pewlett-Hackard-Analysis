@@ -16,3 +16,9 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ## Summary
 
+There will be 90398 employees whose roles will need to be filled as the "silver tsunami" begins to make an impact as per the Retiring Titles table.
+<img width="179" alt="Screen Shot 2021-07-30 at 9 10 54 PM" src="https://user-images.githubusercontent.com/85711507/127725603-1c2aaf2e-a8cb-48e2-bf95-15257144e98b.png">
+
+There are 56859 employees who will be eligible for mentorship program as per the Mentorship Eligibility table.
+<img width="577" alt="Screen Shot 2021-07-30 at 9 37 34 PM" src="https://user-images.githubusercontent.com/85711507/127726181-ccd136ea-d629-4c8b-980a-73f6912710c2.png">
+
